@@ -1,4 +1,4 @@
-# GetCountryDetails
+# CountryDetails.cs
 This class helps to get the country details
 
 Simply add this file to the project. Also, add the Newtonsoft reference.
