@@ -1,7 +1,7 @@
 # CountryHelper.cs
 This class helps to get the country details
 
-Simply add this file to the project. Also, add the Newtonsoft reference.
+Simply add this file to the project. Also, add the [Newtonsoft](https://www.newtonsoft.com/json) reference.
 
 ## To get the Country Details:
 ###### This will return the default country (India) else pass the country code (Alpha2Code/Alpha3Code) as the parameter
