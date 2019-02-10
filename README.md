@@ -10,6 +10,6 @@ OR
 //This will list all the countries
 Countries 
 
-#Country List
-The country list is taken from https://restcountries.eu/rest/v2/all
+# Country List
+The country list is taken from https://restcountries.eu/rest/v2/all \
 For more information please visit: https://restcountries.eu/
